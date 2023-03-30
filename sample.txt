@@ -1,0 +1,227 @@
+Microsoft Windows [Version 10.0.22621.1413]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Aliff>cd Desktop
+
+C:\Users\Aliff\Desktop>cd quiz1
+
+C:\Users\Aliff\Desktop\quiz1>git init
+Initialized empty Git repository in C:/Users/Aliff/Desktop/quiz1/.git/
+
+C:\Users\Aliff\Desktop\quiz1>git remote add origin https://github.com/Aliff9930/Quiz_S2.git
+
+C:\Users\Aliff\Desktop\quiz1>git remote -v
+origin  https://github.com/Aliff9930/Quiz_S2.git (fetch)
+origin  https://github.com/Aliff9930/Quiz_S2.git (push)
+
+C:\Users\Aliff\Desktop\quiz1>dir
+ Volume in drive C is Win10
+ Volume Serial Number is D44E-37A0
+
+ Directory of C:\Users\Aliff\Desktop\quiz1
+
+28/03/2023  03:34 PM    <DIR>          .
+28/03/2023  03:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  58,811,330,560 bytes free
+
+C:\Users\Aliff\Desktop\quiz1>git add .
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m "fail baru woo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Aliff@DESKTOP-O3UG9HQ.(none)')
+
+C:\Users\Aliff\Desktop\quiz1>git config --global user.email"alifjr763@gmail.com"
+
+C:\Users\Aliff\Desktop\quiz1>git config --global user.name "Aliff Dragon"
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m "fail baru woo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Aliff@DESKTOP-O3UG9HQ.(none)')
+
+C:\Users\Aliff\Desktop\quiz1>git branch -M main
+
+C:\Users\Aliff\Desktop\quiz1>git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aliff9930/Quiz_S2.git'
+
+C:\Users\Aliff\Desktop\quiz1>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m "message"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Aliff@DESKTOP-O3UG9HQ.(none)')
+
+C:\Users\Aliff\Desktop\quiz1>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Aliff\Desktop\quiz1>got commit -m "message"
+'got' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Aliff\Desktop\quiz1>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m "message"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Aliff@DESKTOP-O3UG9HQ.(none)')
+
+C:\Users\Aliff\Desktop\quiz1>git branch -M main
+
+C:\Users\Aliff\Desktop\quiz1>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m "message"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Aliff@DESKTOP-O3UG9HQ.(none)')
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m "message"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Aliff@DESKTOP-O3UG9HQ.(none)')
+
+C:\Users\Aliff\Desktop\quiz1>git commit-m
+git: 'commit-m' is not a git command. See 'git --help'.
+
+The most similar command is
+        commit-tree
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m
+error: switch `m' requires a value
+
+C:\Users\Aliff\Desktop\quiz1>git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aliff9930/Quiz_S2.git'
+
+C:\Users\Aliff\Desktop\quiz1>git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aliff9930/Quiz_S2.git'
+
+C:\Users\Aliff\Desktop\quiz1>git branch -M main
+
+C:\Users\Aliff\Desktop\quiz1>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+C:\Users\Aliff\Desktop\quiz1>git add .
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m  "message"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Aliff@DESKTOP-O3UG9HQ.(none)')
+
+C:\Users\Aliff\Desktop\quiz1>git config--global user.email "alifjr763@gmail.com"
+git: 'config--global' is not a git command. See 'git --help'.
+
+C:\Users\Aliff\Desktop\quiz1>git config --global user.email "alifjr763@gmail.com"
+
+C:\Users\Aliff\Desktop\quiz1>git config --global user.name "alif dragon"
+
+C:\Users\Aliff\Desktop\quiz1>git branch -M main
+
+C:\Users\Aliff\Desktop\quiz1>git add .
+
+C:\Users\Aliff\Desktop\quiz1>git commit -m "message"
+[main (root-commit) da1d0f6] message
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 sample.txt
+
+C:\Users\Aliff\Desktop\quiz1>git push origin main
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 209 bytes | 52.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Aliff9930/Quiz_S2.git
+ * [new branch]      main -> main
+
+C:\Users\Aliff\Desktop\quiz1>
