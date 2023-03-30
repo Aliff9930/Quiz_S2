@@ -26,3 +26,19 @@ let user = {
 console.log(user.name)
 console.log(user.age)
 console.log(user.faculty)
+
+let messages = [
+    {
+        name: "usr1",
+        date: "1/4/2023",
+        msg: "good video walaowey",
+        like: 10000
+    },
+    {
+        name: "usr2",
+        date: "2/4/2023",
+        msg: "very good wijio",
+        like: 30000
+    },
+]
+console.log(  )  
