@@ -2,7 +2,7 @@ let message = "benr"
 //console.log(message)
 //console.log(message, typeof message)
 
-message = 123
+//message = 123
 //console.log(message, typeof message)
 
 let str = "1.258"
@@ -41,4 +41,4 @@ let messages = [
         like: 30000
     },
 ]
-console.log(  )  
+console.log( messages[1].msg )  
