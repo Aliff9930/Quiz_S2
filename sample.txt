@@ -1,5 +1,3 @@
-Microsoft Windows [Version 10.0.22621.1413]
-(c) Microsoft Corporation. All rights reserved.
 
 C:\Users\Aliff>cd Desktop
 
@@ -19,11 +17,6 @@ C:\Users\Aliff\Desktop\quiz1>dir
  Volume Serial Number is D44E-37A0
 
  Directory of C:\Users\Aliff\Desktop\quiz1
-
-28/03/2023  03:34 PM    <DIR>          .
-28/03/2023  03:20 PM    <DIR>          ..
-               0 File(s)              0 bytes
-               2 Dir(s)  58,811,330,560 bytes free
 
 C:\Users\Aliff\Desktop\quiz1>git add .
 
